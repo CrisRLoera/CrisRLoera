@@ -1,4 +1,13 @@
-### Hi there 👋
+> "Escribir es crear, y a mi me encanta crear".
+
+Hi everyone, my name is Cristian Yael Rubi Loera, I am a Latino American programer and entrepreneur.
+
+Hola todo el mundo mi nombre es Cristian Yael Rubi Loera, soy un programador y emprendedor Latinoamericano.
+
+- One of my passions is to propose solutions and structure to the codes I working, I am an enthusiast of Data Science and Artificial Intelligence.
+- Una de mis pasiones es proponer soluciones y estructurar los códigos con los que trabajo, soy un entusiasta de la Ciencia de Datos y la Inteligencia Artificial.
+
+
 
 <!--
 **CrisRLoera/CrisRLoera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
